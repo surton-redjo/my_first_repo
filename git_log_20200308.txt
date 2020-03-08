@@ -1,0 +1,17 @@
+commit 0b3ae15a8273fa72f2a0fd092cc8d0deeca94547
+Author: surton-redjo <surton.redjo@gmail.com>
+Date:   Sat Mar 7 14:34:23 2020 +0100
+
+    added gitignore
+
+commit 03004a5208879765b7be4a04f3d68213760f151d
+Author: surton-redjo <surton.redjo@gmail.com>
+Date:   Fri Mar 6 17:15:02 2020 +0100
+
+    added two files
+
+commit ce34ae491fda5177ddf9413707e87096df197ef8
+Author: surton-redjo <surton.redjo@gmail.com>
+Date:   Fri Mar 6 16:54:50 2020 +0100
+
+    add
