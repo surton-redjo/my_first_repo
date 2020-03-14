@@ -1,7 +1,7 @@
 # Surton
 ## Geography
 
-I live in the city of Amsterdam, in the state of Noord-Hollanf, in the Netherlands.
+I live in the city of Amsterdam, in the state of Noord-Holland, in the Netherlands.
 ## Reading
 Three of my favourite books are:
 - *Mindstorms* by Seymour Papert
